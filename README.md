@@ -26,7 +26,7 @@ After a tirp to NYC and utilizing the bike-sharing program, we are interested in
     
 * DESCRIBE IMAGE HERE
 
-    ![](images/Trips_by_Gender_(Weedkay_per_Hour).png)
+    ![](images/Trips_by_Gender_(Weedday_per_Hour).png)
     
 * DESCRIBE IMAGE HERE
 
