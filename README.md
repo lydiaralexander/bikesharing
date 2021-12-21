@@ -34,3 +34,5 @@ Lastly, we have a heatmap graph that show us the number of bike trips broken dow
  
  ## Summary
  After reviewing the information from the NYC Cit Bike-Sharing Program.  There is enough information to give the investors a good idea of the type of customers we could see, the utilization high points and low points and have a good idea of the volume of utilization that could be expected.
+ 
+ [link to dashboard] (https://public.tableau.com/app/profile/lydia8407)
