@@ -6,14 +6,30 @@ After a tirp to NYC and utilizing the bike-sharing program, we are interested in
 ## Results of the Analysis
 * DESCRIBE IMAGE HERE
 
-    ![](Images/Customers.png)
+    ![](images/Customers.png)
     
 * DESCRIBE IMAGE HERE
 
-    ![](Images/August_Peak_Hours.png)
+    ![](images/August_Peak_Hours.png)
+    
+* DESCRIBE IMAGE HERE
+
+    ![](images/Checkout_Time_for_Users.png)
+    
+* DESCRIBE IMAGE HERE
+
+    ![](images/Checkout_Time_by_Gender.png)
+    
+* DESCRIBE IMAGE HERE
+
+    ![](images/Trips_by_Weekday_per_Hour.png)
+    
+* DESCRIBE IMAGE HERE
+
+    ![](images/Trips_by_Gender_(Weedkay_per_Hour).png)
+    
+* DESCRIBE IMAGE HERE
+
+    ![](images/User_Trip_by_Gender_by_Weekday.png)
  
- 
-
-
-
-## Summary
+ ## Summary
