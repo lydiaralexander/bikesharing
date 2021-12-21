@@ -18,7 +18,7 @@ After a tirp to NYC and utilizing the bike-sharing program, we are interested in
     
 * DESCRIBE IMAGE HERE
 
-    ![](images/Checkout_Time_by_Gender.png)
+    ![](images/Checkout_Times_by_Gender.png)
     
 * DESCRIBE IMAGE HERE
 
